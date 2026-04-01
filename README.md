@@ -32,8 +32,3 @@ Users can upload up to 6 images and see instant previews.
 - CTA Section
 - Footer
 
-##  How to Run Locally
-
-```bash
-npm install
-npm run dev
